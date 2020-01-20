@@ -7,7 +7,7 @@
 You can clone the repository with this command in your terminal:
 
 ```bash
-git clone https://github.com/DHRI-Curriculum/twitter-api.git
+git clone https://github.com/GC-DRI/twitter-api.git
 ```
 	
 Once you've cloned or downloaded the directory, navigate into it using your command line.

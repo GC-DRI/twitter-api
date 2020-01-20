@@ -7,7 +7,7 @@
 3\. Scroll to the last line of the file, which looks like this:
 
 ```python
-myStream.filter(track=['python'])
+myStream.filter(track=['python','apis'])
 ```
 
 The script will search for the word in quotes ('python' above) and return all tweets matching that string. Change the word in quotes to perform a different search. You can also search multiple terms by separating words with commas, like this:
